@@ -1,2 +1,2 @@
 # Impractical-python-projects
-Here all the projects I have done from the book Impractical Python Projects by Lee Vaughan. 
+All of these projects are based on the book "Impractical Python Projects" by Lee Vaughan.
